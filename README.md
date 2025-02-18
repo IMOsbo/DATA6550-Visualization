@@ -9,7 +9,7 @@ We are looking at Kaggle's classic **Titanic** dataset (<https://www.kaggle.com/
 ## Final Report
 The link below is to the shared one-drive Word document.
 
-https://mtmailmtsu-my.sharepoint.com/:w:/g/personal/imo2d_mtmail_mtsu_edu/Edq8QUgVyQpCoCwHB5cl4PsB_lP6LmP_N6EACSQ4dZIFIw?e=b6N3Ml
+[[https://mtmailmtsu-my.sharepoint.com/:w:/g/personal/imo2d_mtmail_mtsu_edu/Edq8QUgVyQpCoCwHB5cl4PsB_lP6LmP_N6EACSQ4dZIFIw?e=b6N3Ml](https://mtmailmtsu-my.sharepoint.com/:w:/g/personal/imo2d_mtmail_mtsu_edu/ERuF7EnwtzBGouAYDDvsaxQBTMj6vRGU39clyWvMiHGbDg?e=W3nzgB)](https://mtmailmtsu-my.sharepoint.com/:w:/g/personal/imo2d_mtmail_mtsu_edu/ERuF7EnwtzBGouAYDDvsaxQBSZsoPMsAPN81rOabvLnxNQ?e=0Pu3mz)
 
 ## Team / Group Members
 The group/team is comprised of:
@@ -27,7 +27,7 @@ This folder contains **all** group members code contributions in separate folder
 ### Data (`/Data`)
 This folder contains the Kaggle Titanic dataset as a `csv` files called `titanic.csv`. 
 
-The dataset can be found at: <https://www.kaggle.com/competitions/titanic/> (*a Kaggle Username & Password are needed*).
+The dataset can be found at: <https://www.kaggle.com/competitions/titanic/> (*a Kaggle Username & Password are needed to download*).
 
 ### Collaboration (`/Collaboration`)
 This folder holds the weekly word documents cronicaling our project progress and disussions.
