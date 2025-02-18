@@ -22,7 +22,7 @@ The group/team is comprised of:
 The general stucture of this reportisotry is as following:
 
 ### Code (`/Code`)
-This folder contains **all** group members code contributions in separate folders `Hoehn`, `Rogel`, `Osborne`, and `Woods`. Within the *lastname* folders each of the group has their own Jupyter Notebook with details of the work / research of the UCI dataset.
+This folder contains **all** group members code contributions in separate folders `Hoehn`, `Rogel`, `Osborne`, and `Woods`. Within the *lastname* folders each of the group has their own Jupyter Notebook with details of the work / research of the Titanic dataset.
 
 ### Data (`/Data`)
 This folder contains the Kaggle Titanic dataset as a `csv` files called `titanic.csv`. 
@@ -30,5 +30,5 @@ This folder contains the Kaggle Titanic dataset as a `csv` files called `titanic
 The dataset can be found at: <https://www.kaggle.com/competitions/titanic/> (*a Kaggle Username & Password are needed to download*).
 
 ### Collaboration (`/Collaboration`)
-This folder holds the weekly word documents cronicaling our project progress and disussions.
+This folder holds the weekly word documents cronicaling our project progress and disussions. In addition it also holds trasnscripts of our talks and summaries of the talks recorded by Zoom.
 
