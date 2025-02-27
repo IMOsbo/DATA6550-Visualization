@@ -32,3 +32,5 @@ The dataset can be found at: <https://www.kaggle.com/competitions/titanic/> (*a 
 ### Collaboration (`/Collaboration`)
 This folder holds the weekly word documents cronicaling our project progress and disussions. In addition it also holds trasnscripts of our talks and summaries of the talks recorded by Zoom.
 
+### Analysis (`/Analysis`)
+This folder holds some key visual in `*.png` format that we used as a group to work on our report.
